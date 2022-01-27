@@ -1,12 +1,14 @@
-# Expense Tracker
+# Memory Cards
 
-The Expense Tracker site allows users to calculate their income while keeping track of the user's earnings/spendings
+The memory cards site allows users to create quick flash cards
 
 <img src="./ezgif.com-gif-maker (3).gif" alt="ezgif.com-gif-maker (3)" width="854" height="480">
 
 ## About
 
-This webpage not only allows the user to add and deduct from their income, but it also features a history section where users can choose to erase any accidential transactions (as demonstrated in the gif above). 
+This website's focus is on providing the user with the solution to their problems as fast as possible. 
 
-The expense tracker helps to provide an accurate and smooth experience to all users through the different features added to it.
+Immediately, users will notice the "create new" and "clear" buttons that are used in making and deleting cards. 
+
+under the cards are two arrows, which are used to navigate the user's stack of flash cards.
 
